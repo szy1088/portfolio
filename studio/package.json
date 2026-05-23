@@ -1,0 +1,8 @@
+{
+  "name": "portfolio-studio",
+  "private": true,
+  "scripts": {
+    "start": "sanity start",
+    "build": "sanity build"
+  }
+}
